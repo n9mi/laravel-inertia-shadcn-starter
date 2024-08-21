@@ -1,5 +1,5 @@
 # laravel-inertia-shadcn-starter
-Starter for Laravel 11 with Inertia React included with multi-role auth. 
+Starter for Laravel 11 with Inertia React included with Breeze multi-role auth. 
 
 ## Guest
 ![image](https://github.com/user-attachments/assets/9e26173d-4bd3-443a-8b57-2651f460eafa)
